@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: rwhatsapp
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Johannes
+    affiliation: GESIS - Leibniz-Institut für Sozialwissenschaften
+    orcid: 'https://orcid.org/0000-0001-9177-1772'
+    email: johannes.gruber@gesis.org
+    family-names: Gruber
+identifiers:
+  - type: doi
+    value: 10.32614/CRAN.package.rwhatsapp
+  - type: url
+    value: 'https://github.com/JBGruber/rwhatsapp'
+repository-code: 'https://github.com/JBGruber/rwhatsapp'
+license: GPL-3.0
+version: R package version 0.2.4
