@@ -1,11 +1,5 @@
 project:
-  type: website
-
-format:
-  html:
-    code-fold: true
-    toc: true
-    toc-depth: 3
-
-execute:
-  freeze: false
+  title: rWhatsApp
+  type: default
+  render:
+    - rwhatsapp_methodshub.qmd
