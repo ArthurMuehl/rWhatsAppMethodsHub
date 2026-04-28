@@ -1,1 +1,7 @@
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("lubridate")
+install.packages("tidyr")
+install.packages("tidytext")
+install.packages("stopwords")
 install.packages("rwhatsapp")
