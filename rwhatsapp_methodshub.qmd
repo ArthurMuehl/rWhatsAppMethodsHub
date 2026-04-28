@@ -1,15 +1,9 @@
 ---
-title: "rwhatsapp — Methods Hub"
+title: "rWhatsApp"
 format:
   html:
-    code-fold: show
-execute:
-  eval: true
-  echo: true
-  warning: false
-  message: false
-  freeze: false
-engine: knitr
+    embed-resources: true
+  gfm: default
 ---
 
 # rwhatsapp: Import and Handling for WhatsApp Chat Logs
