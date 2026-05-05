@@ -2,4 +2,4 @@ project:
   title: rWhatsApp
   type: default
   render:
-    - rwhatsapp_methodshub.qmd
+    - methodshub.qmd
